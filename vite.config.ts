@@ -6,7 +6,7 @@ import svgr from "vite-plugin-svgr";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: process.env.GITHUB_ACTIONS ? "/svg-preview-print/" : "/",
+  base: process.env.GITHUB_ACTIONS ? "/svg-print-demo/" : "/",
   plugins: [tailwindcss(), react(), svgr()],
   resolve: {
     alias: {
