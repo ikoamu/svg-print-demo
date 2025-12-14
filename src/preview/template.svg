@@ -1,0 +1,641 @@
+<svg viewBox="0 0 2100 2970" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g id="Template">
+    <rect width="2100" height="2970" fill="white" />
+    <g id="customerContainer">
+      <text id="customer" fill="black" xml:space="preserve" style="white-space: pre"
+        font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="600" letter-spacing="0em"><tspan x="206" y="482.32">株式会社　ほげほげほげほげ</tspan></text>
+      <g id="undeline">
+        <mask id="path-2-outside-1_102_10382" maskUnits="userSpaceOnUse" x="193" y="403"
+          width="1187" height="91" fill="black">
+          <rect fill="white" x="193" y="403" width="1187" height="91" />
+          <path d="M193 403H1380V492H193V403Z" />
+        </mask>
+        <path d="M1380 492V490H193V492V494H1380V492Z" fill="black"
+          mask="url(#path-2-outside-1_102_10382)" />
+      </g>
+      <text id="å¾¡ä¸­" fill="black" xml:space="preserve" style="white-space: pre"
+        font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300" letter-spacing="0em"><tspan x="1426" y="487.32">御中</tspan></text>
+    </g>
+    <g id="amountContainer">
+      <text id="åè¨éé¡" fill="black" xml:space="preserve" style="white-space: pre"
+        font-family="Hiragino Kaku Gothic Pro" font-size="48" font-weight="300" letter-spacing="0em"><tspan x="214" y="844.24">合計金額</tspan></text>
+      <g id="Rectangle 1">
+        <mask id="path-6-outside-2_102_10382" maskUnits="userSpaceOnUse" x="210" y="769"
+          width="1170" height="91" fill="black">
+          <rect fill="white" x="210" y="769" width="1170" height="91" />
+          <path d="M210 769H1380V858H210V769Z" />
+        </mask>
+        <path d="M1380 858V856H210V858V860H1380V858Z" fill="black"
+          mask="url(#path-6-outside-2_102_10382)" />
+      </g>
+      <text id="amount" fill="black" xml:space="preserve" style="white-space: pre"
+        font-family="Hiragino Kaku Gothic Pro" font-size="96" font-weight="300" letter-spacing="0em"
+        text-anchor="end"><tspan x="1338.66" y="850.48">¥ 130,000 -</tspan></text>
+    </g>
+    <text id="comment" fill="black" xml:space="preserve" style="white-space: pre"
+      font-family="Hiragino Kaku Gothic Pro" font-size="40" font-weight="300" letter-spacing="0em"><tspan x="217" y="576.2">下記の通りお支払い申し上げます。</tspan></text>
+    <text id="remark" fill="black" xml:space="preserve" style="white-space: pre"
+      font-family="Hiragino Kaku Gothic Pro" font-size="40" font-weight="300" letter-spacing="0em"><tspan x="132" y="2812.2">備考: ここは備考欄です。自由に入力できます。</tspan></text>
+    <g id="detailContainer">
+      <g clip-path="url(#clip0_102_10382)">
+        <g id="header">
+          <rect width="1792" height="129" transform="translate(131 935)" fill="black" />
+          <text id="headerAmount" fill="white" xml:space="preserve" style="white-space: pre"
+            font-family="Inter" font-size="64" letter-spacing="0em"><tspan x="1505" y="1032.77">金額</tspan></text>
+          <text id="headerPrice" fill="white" xml:space="preserve" style="white-space: pre"
+            font-family="Inter" font-size="64" letter-spacing="0em"><tspan x="1080" y="1032.77">単価</tspan></text>
+          <text id="headerQuantity" fill="white" xml:space="preserve" style="white-space: pre"
+            font-family="Inter" font-size="64" letter-spacing="0em"><tspan x="788" y="1032.77">数量</tspan></text>
+          <text id="headerName" fill="white" xml:space="preserve" style="white-space: pre"
+            font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+            letter-spacing="0em"><tspan x="300" y="1033.32">商品名</tspan></text>
+          <text id="headerIndex" fill="white" xml:space="preserve" style="white-space: pre"
+            font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+            letter-spacing="0em"><tspan x="152" y="1033.32">No</tspan></text>
+        </g>
+        <g id="row[0]">
+          <g clip-path="url(#clip1_102_10382)">
+            <mask id="path-18-inside-3_102_10382" fill="white">
+              <path d="M131 1064H1923V1192H131V1064Z" />
+            </mask>
+            <g id="quantityContainer[0]">
+              <path d="M1077 1064H1076V1192H1077H1078V1064H1077Z" fill="black" id="quantityLine[0]" />
+              <text id="quantity[0]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1053.88" y="1160.32">10</tspan></text>
+            </g>
+            <g id="priceContainer[0]">
+              <path d="M1500 1064H1499V1192H1500H1501V1064H1500Z" fill="black" id="priceLine[0]" />
+              <text id="price[0]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1476.38" y="1160.32">1,000</tspan></text>
+            </g>
+            <g id="amountContainer[0]">
+              <text id="amount[0]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1899.31" y="1160.32">10,000</tspan></text>
+            </g>
+            <g id="nameContainer[0]">
+              <path d="M786 1064H785V1192H786H787V1064H786Z" fill="black" id="nameLine[0]" />
+              <text id="name[0]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="324" y="1160.32">商品名1</tspan></text>
+            </g>
+            <g id="indexContainer[0]">
+              <path d="M299 1064H298V1192H299H300V1064H299Z" fill="black" id="indexLine[0]" />
+              <text id="index[0]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="274.938" y="1160.32">1</tspan></text>
+              <text id="nameNoIndex[0]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="155" y="1160.32">商品名1</tspan></text>
+            </g>
+          </g>
+          <path d="M1923 1192V1190H131V1192V1194H1923V1192Z" fill="black"
+            mask="url(#path-18-inside-3_102_10382)" id="underline[0]" />
+        </g>
+        <g id="row[1]">
+          <g clip-path="url(#clip2_102_10382)">
+            <mask id="path-35-inside-4_102_10382" fill="white">
+              <path d="M131 1192H1923V1320H131V1192Z" />
+            </mask>
+            <g id="quantityContainer[1]">
+              <path d="M1077 1192H1076V1320H1077H1078V1192H1077Z" fill="black" id="quantityLine[1]" />
+              <text id="quantity[1]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1053.88" y="1288.32">10</tspan></text>
+            </g>
+            <g id="priceContainer[1]">
+              <path d="M1500 1192H1499V1320H1500H1501V1192H1500Z" fill="black" id="priceLine[1]" />
+              <text id="price[1]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1476.38" y="1288.32">1,000</tspan></text>
+            </g>
+            <g id="amountContainer[1]">
+              <text id="amount[1]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1899.31" y="1288.32">10,000</tspan></text>
+            </g>
+            <g id="nameContainer[1]">
+              <path d="M786 1192H785V1320H786H787V1192H786Z" fill="black" id="nameLine[1]" />
+              <text id="name[1]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="324" y="1288.32">商品名1</tspan></text>
+            </g>
+            <g id="indexContainer[1]">
+              <path d="M299 1192H298V1320H299H300V1192H299Z" fill="black" id="indexLine[1]" />
+              <text id="index[1]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="274.938" y="1288.32">1</tspan></text>
+              <text id="nameNoIndex[1]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="155" y="1288.32">商品名1</tspan></text>
+            </g>
+          </g>
+          <path d="M1923 1320V1318H131V1320V1322H1923V1320Z" fill="black"
+            mask="url(#path-35-inside-4_102_10382)" id="underline[1]" />
+        </g>
+        <g id="row[2]">
+          <g clip-path="url(#clip3_102_10382)">
+            <mask id="path-52-inside-5_102_10382" fill="white">
+              <path d="M131 1320H1923V1448H131V1320Z" />
+            </mask>
+            <g id="quantityContainer[2]">
+              <path d="M1077 1320H1076V1448H1077H1078V1320H1077Z" fill="black" id="quantityLine[2]" />
+              <text id="quantity[2]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1053.88" y="1416.32">10</tspan></text>
+            </g>
+            <g id="priceContainer[2]">
+              <path d="M1500 1320H1499V1448H1500H1501V1320H1500Z" fill="black" id="priceLine[2]" />
+              <text id="price[2]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1476.38" y="1416.32">1,000</tspan></text>
+            </g>
+            <g id="amountContainer[2]">
+              <text id="amount[2]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1899.31" y="1416.32">10,000</tspan></text>
+            </g>
+            <g id="nameContainer[2]">
+              <path d="M786 1320H785V1448H786H787V1320H786Z" fill="black" id="nameLine[2]" />
+              <text id="name[2]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="324" y="1416.32">商品名1</tspan></text>
+            </g>
+            <g id="indexContainer[2]">
+              <path d="M299 1320H298V1448H299H300V1320H299Z" fill="black" id="indexLine[2]" />
+              <text id="index[2]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="274.938" y="1416.32">1</tspan></text>
+              <text id="nameNoIndex[2]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="155" y="1416.32">商品名1</tspan></text>
+            </g>
+          </g>
+          <path d="M1923 1448V1446H131V1448V1450H1923V1448Z" fill="black"
+            mask="url(#path-52-inside-5_102_10382)" id="underline[2]" />
+        </g>
+        <g id="row[3]">
+          <g clip-path="url(#clip4_102_10382)">
+            <mask id="path-69-inside-6_102_10382" fill="white">
+              <path d="M131 1448H1923V1576H131V1448Z" />
+            </mask>
+            <g id="quantityContainer[3]">
+              <path d="M1077 1448H1076V1576H1077H1078V1448H1077Z" fill="black" id="quantityLine[3]" />
+              <text id="quantity[3]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1053.88" y="1544.32">10</tspan></text>
+            </g>
+            <g id="priceContainer[3]">
+              <path d="M1500 1448H1499V1576H1500H1501V1448H1500Z" fill="black" id="priceLine[3]" />
+              <text id="price[3]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1476.38" y="1544.32">1,000</tspan></text>
+            </g>
+            <g id="amountContainer[3]">
+              <text id="amount[3]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1899.31" y="1544.32">10,000</tspan></text>
+            </g>
+            <g id="nameContainer[3]">
+              <path d="M786 1448H785V1576H786H787V1448H786Z" fill="black" id="nameLine[3]" />
+              <text id="name[3]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="324" y="1544.32">商品名1</tspan></text>
+            </g>
+            <g id="indexContainer[3]">
+              <path d="M299 1448H298V1576H299H300V1448H299Z" fill="black" id="indexLine[3]" />
+              <text id="index[3]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="274.938" y="1544.32">1</tspan></text>
+              <text id="nameNoIndex[3]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="155" y="1544.32">商品名1</tspan></text>
+            </g>
+          </g>
+          <path d="M1923 1576V1574H131V1576V1578H1923V1576Z" fill="black"
+            mask="url(#path-69-inside-6_102_10382)" id="underline[3]" />
+        </g>
+        <g id="row[4]">
+          <g clip-path="url(#clip5_102_10382)">
+            <mask id="path-86-inside-7_102_10382" fill="white">
+              <path d="M131 1576H1923V1704H131V1576Z" />
+            </mask>
+            <g id="quantityContainer[4]">
+              <path d="M1077 1576H1076V1704H1077H1078V1576H1077Z" fill="black" id="quantityLine[4]" />
+              <text id="quantity[4]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1053.88" y="1672.32">10</tspan></text>
+            </g>
+            <g id="priceContainer[4]">
+              <path d="M1500 1576H1499V1704H1500H1501V1576H1500Z" fill="black" id="priceLine[4]" />
+              <text id="price[4]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1476.38" y="1672.32">1,000</tspan></text>
+            </g>
+            <g id="amountContainer[4]">
+              <text id="amount[4]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1899.31" y="1672.32">10,000</tspan></text>
+            </g>
+            <g id="nameContainer[4]">
+              <path d="M786 1576H785V1704H786H787V1576H786Z" fill="black" id="nameLine[4]" />
+              <text id="name[4]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="324" y="1672.32">商品名1</tspan></text>
+            </g>
+            <g id="indexContainer[4]">
+              <path d="M299 1576H298V1704H299H300V1576H299Z" fill="black" id="indexLine[4]" />
+              <text id="index[4]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="274.938" y="1672.32">1</tspan></text>
+              <text id="nameNoIndex[4]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="155" y="1672.32">商品名1</tspan></text>
+            </g>
+          </g>
+          <path d="M1923 1704V1702H131V1704V1706H1923V1704Z" fill="black"
+            mask="url(#path-86-inside-7_102_10382)" id="underline[4]" />
+        </g>
+        <g id="row[5]">
+          <g clip-path="url(#clip6_102_10382)">
+            <mask id="path-103-inside-8_102_10382" fill="white">
+              <path d="M131 1704H1923V1832H131V1704Z" />
+            </mask>
+            <g id="quantityContainer[5]">
+              <path d="M1077 1704H1076V1832H1077H1078V1704H1077Z" fill="black" id="quantityLine[5]" />
+              <text id="quantity[5]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1053.88" y="1800.32">10</tspan></text>
+            </g>
+            <g id="priceContainer[5]">
+              <path d="M1500 1704H1499V1832H1500H1501V1704H1500Z" fill="black" id="priceLine[5]" />
+              <text id="price[5]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1476.38" y="1800.32">1,000</tspan></text>
+            </g>
+            <g id="amountContainer[5]">
+              <text id="amount[5]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1899.31" y="1800.32">10,000</tspan></text>
+            </g>
+            <g id="nameContainer[5]">
+              <path d="M786 1704H785V1832H786H787V1704H786Z" fill="black" id="nameLine[5]" />
+              <text id="name[5]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="324" y="1800.32">商品名1</tspan></text>
+            </g>
+            <g id="indexContainer[5]">
+              <path d="M299 1704H298V1832H299H300V1704H299Z" fill="black" id="indexLine[5]" />
+              <text id="index[5]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="274.938" y="1800.32">1</tspan></text>
+              <text id="nameNoIndex[5]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="155" y="1800.32">商品名1</tspan></text>
+            </g>
+          </g>
+          <path d="M1923 1832V1830H131V1832V1834H1923V1832Z" fill="black"
+            mask="url(#path-103-inside-8_102_10382)" id="underline[5]" />
+        </g>
+        <g id="row[6]">
+          <g clip-path="url(#clip7_102_10382)">
+            <mask id="path-120-inside-9_102_10382" fill="white">
+              <path d="M131 1832H1923V1960H131V1832Z" />
+            </mask>
+            <g id="quantityContainer[6]">
+              <path d="M1077 1832H1076V1960H1077H1078V1832H1077Z" fill="black" id="quantityLine[6]" />
+              <text id="quantity[6]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1053.88" y="1928.32">10</tspan></text>
+            </g>
+            <g id="priceContainer[6]">
+              <path d="M1500 1832H1499V1960H1500H1501V1832H1500Z" fill="black" id="priceLine[6]" />
+              <text id="price[6]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1476.38" y="1928.32">1,000</tspan></text>
+            </g>
+            <g id="amountContainer[6]">
+              <text id="amount[6]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1899.31" y="1928.32">10,000</tspan></text>
+            </g>
+            <g id="nameContainer[6]">
+              <path d="M786 1832H785V1960H786H787V1832H786Z" fill="black" id="nameLine[6]" />
+              <text id="name[6]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="324" y="1928.32">商品名1</tspan></text>
+            </g>
+            <g id="indexContainer[6]">
+              <path d="M299 1832H298V1960H299H300V1832H299Z" fill="black" id="indexLine[6]" />
+              <text id="index[6]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="274.938" y="1928.32">1</tspan></text>
+              <text id="nameNoIndex[6]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="155" y="1928.32">商品名1</tspan></text>
+            </g>
+          </g>
+          <path d="M1923 1960V1958H131V1960V1962H1923V1960Z" fill="black"
+            mask="url(#path-120-inside-9_102_10382)" id="underline[6]" />
+        </g>
+        <g id="row[7]">
+          <g clip-path="url(#clip8_102_10382)">
+            <mask id="path-137-inside-10_102_10382" fill="white">
+              <path d="M131 1960H1923V2088H131V1960Z" />
+            </mask>
+            <g id="quantityContainer[7]">
+              <path d="M1077 1960H1076V2088H1077H1078V1960H1077Z" fill="black" id="quantityLine[7]" />
+              <text id="quantity[7]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1053.88" y="2056.32">10</tspan></text>
+            </g>
+            <g id="priceContainer[7]">
+              <path d="M1500 1960H1499V2088H1500H1501V1960H1500Z" fill="black" id="priceLine[7]" />
+              <text id="price[7]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1476.38" y="2056.32">1,000</tspan></text>
+            </g>
+            <g id="amountContainer[7]">
+              <text id="amount[7]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1899.31" y="2056.32">10,000</tspan></text>
+            </g>
+            <g id="nameContainer[7]">
+              <path d="M786 1960H785V2088H786H787V1960H786Z" fill="black" id="nameLine[7]" />
+              <text id="name[7]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="324" y="2056.32">商品名1</tspan></text>
+            </g>
+            <g id="indexContainer[7]">
+              <path d="M299 1960H298V2088H299H300V1960H299Z" fill="black" id="indexLine[7]" />
+              <text id="index[7]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="274.938" y="2056.32">1</tspan></text>
+              <text id="nameNoIndex[7]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="155" y="2056.32">商品名1</tspan></text>
+            </g>
+          </g>
+          <path d="M1923 2088V2086H131V2088V2090H1923V2088Z" fill="black"
+            mask="url(#path-137-inside-10_102_10382)" id="underline[7]" />
+        </g>
+        <g id="row[8]">
+          <g clip-path="url(#clip9_102_10382)">
+            <mask id="path-154-inside-11_102_10382" fill="white">
+              <path d="M131 2088H1923V2216H131V2088Z" />
+            </mask>
+            <g id="quantityContainer[8]">
+              <path d="M1077 2088H1076V2216H1077H1078V2088H1077Z" fill="black" id="quantityLine[8]" />
+              <text id="quantity[8]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1053.88" y="2184.32">10</tspan></text>
+            </g>
+            <g id="priceContainer[8]">
+              <path d="M1500 2088H1499V2216H1500H1501V2088H1500Z" fill="black" id="priceLine[8]" />
+              <text id="price[8]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1476.38" y="2184.32">1,000</tspan></text>
+            </g>
+            <g id="amountContainer[8]">
+              <text id="amount[8]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1899.31" y="2184.32">10,000</tspan></text>
+            </g>
+            <g id="nameContainer[8]">
+              <path d="M786 2088H785V2216H786H787V2088H786Z" fill="black" id="nameLine[8]" />
+              <text id="name[8]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="324" y="2184.32">商品名1</tspan></text>
+            </g>
+            <g id="indexContainer[8]">
+              <path d="M299 2088H298V2216H299H300V2088H299Z" fill="black" id="indexLine[8]" />
+              <text id="index[8]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="274.938" y="2184.32">1</tspan></text>
+              <text id="nameNoIndex[8]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="155" y="2184.32">商品名1</tspan></text>
+            </g>
+          </g>
+          <path d="M1923 2216V2214H131V2216V2218H1923V2216Z" fill="black"
+            mask="url(#path-154-inside-11_102_10382)" id="underline[8]" />
+        </g>
+        <g id="row[9]">
+          <g clip-path="url(#clip10_102_10382)">
+            <mask id="path-171-inside-12_102_10382" fill="white">
+              <path d="M131 2216H1923V2344H131V2216Z" />
+            </mask>
+            <g id="quantityContainer[9]">
+              <path d="M1077 2216H1076V2344H1077H1078V2216H1077Z" fill="black" id="quantityLine[9]" />
+              <text id="quantity[9]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1053.88" y="2312.32">10</tspan></text>
+            </g>
+            <g id="priceContainer[9]">
+              <path d="M1500 2216H1499V2344H1500H1501V2216H1500Z" fill="black" id="priceLine[9]" />
+              <text id="price[9]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1476.38" y="2312.32">1,000</tspan></text>
+            </g>
+            <g id="amountContainer[9]">
+              <text id="amount[9]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1899.31" y="2312.32">10,000</tspan></text>
+            </g>
+            <g id="nameContainer[9]">
+              <path d="M786 2216H785V2344H786H787V2216H786Z" fill="black" id="nameLine[9]" />
+              <text id="name[9]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="324" y="2312.32">商品名1</tspan></text>
+            </g>
+            <g id="indexContainer[9]">
+              <path d="M299 2216H298V2344H299H300V2216H299Z" fill="black" id="indexLine[9]" />
+              <text id="index[9]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="274.938" y="2312.32">1</tspan></text>
+              <text id="nameNoIndex[9]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="155" y="2312.32">商品名1</tspan></text>
+            </g>
+          </g>
+          <path d="M1923 2344V2342H131V2344V2346H1923V2344Z" fill="black"
+            mask="url(#path-171-inside-12_102_10382)" id="underline[9]" />
+        </g>
+        <g id="row[10]">
+          <g clip-path="url(#clip11_102_10382)">
+            <mask id="path-188-inside-13_102_10382" fill="white">
+              <path d="M131 2344H1923V2472H131V2344Z" />
+            </mask>
+            <g id="quantityContainer[10]">
+              <path d="M1077 2344H1076V2472H1077H1078V2344H1077Z" fill="black" id="quantityLine[10]" />
+              <text id="quantity[10]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1053.88" y="2440.32">10</tspan></text>
+            </g>
+            <g id="priceContainer[10]">
+              <path d="M1500 2344H1499V2472H1500H1501V2344H1500Z" fill="black" id="priceLine[10]" />
+              <text id="price[10]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1476.38" y="2440.32">1,000</tspan></text>
+            </g>
+            <g id="amountContainer[10]">
+              <text id="amount[10]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1899.31" y="2440.32">10,000</tspan></text>
+            </g>
+            <g id="nameContainer[10]">
+              <path d="M786 2344H785V2472H786H787V2344H786Z" fill="black" id="nameLine[10]" />
+              <text id="name[10]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="324" y="2440.32">商品名1</tspan></text>
+            </g>
+            <g id="indexContainer[10]">
+              <path d="M299 2344H298V2472H299H300V2344H299Z" fill="black" id="indexLine[10]" />
+              <text id="index[10]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="274.938" y="2440.32">1</tspan></text>
+              <text id="nameNoIndex[10]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="155" y="2440.32">商品名1</tspan></text>
+            </g>
+          </g>
+          <path d="M1923 2472V2470H131V2472V2474H1923V2472Z" fill="black"
+            mask="url(#path-188-inside-13_102_10382)" id="underline[10]" />
+        </g>
+        <g id="row[11]">
+          <g clip-path="url(#clip12_102_10382)">
+            <mask id="path-205-inside-14_102_10382" fill="white">
+              <path d="M131 2472H1923V2600H131V2472Z" />
+            </mask>
+            <g id="quantityContainer[11]">
+              <path d="M1077 2472H1076V2600H1077H1078V2472H1077Z" fill="black" id="quantityLine[11]" />
+              <text id="quantity[11]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1053.88" y="2568.32">10</tspan></text>
+            </g>
+            <g id="priceContainer[11]">
+              <path d="M1500 2472H1499V2600H1500H1501V2472H1500Z" fill="black" id="priceLine[11]" />
+              <text id="price[11]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1476.38" y="2568.32">1,000</tspan></text>
+            </g>
+            <g id="amountContainer[11]">
+              <text id="amount[11]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1899.31" y="2568.32">10,000</tspan></text>
+            </g>
+            <g id="nameContainer[11]">
+              <path d="M786 2472H785V2600H786H787V2472H786Z" fill="black" id="nameLine[11]" />
+              <text id="name[11]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="324" y="2568.32">商品名1</tspan></text>
+            </g>
+            <g id="indexContainer[11]">
+              <path d="M299 2472H298V2600H299H300V2472H299Z" fill="black" id="indexLine[11]" />
+              <text id="index[11]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="274.938" y="2568.32">1</tspan></text>
+              <text id="nameNoIndex[11]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="155" y="2568.32">商品名1</tspan></text>
+            </g>
+          </g>
+          <path d="M1923 2600V2598H131V2600V2602H1923V2600Z" fill="black"
+            mask="url(#path-205-inside-14_102_10382)" id="underline[11]" />
+        </g>
+        <g id="row[12]">
+          <g clip-path="url(#clip13_102_10382)">
+            <mask id="path-222-inside-15_102_10382" fill="white">
+              <path d="M131 2600H1923V2728H131V2600Z" />
+            </mask>
+            <g id="quantityContainer[12]">
+              <path d="M1077 2600H1076V2728H1077H1078V2600H1077Z" fill="black" id="quantityLine[12]" />
+              <text id="quantity[12]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1053.88" y="2696.32">10</tspan></text>
+            </g>
+            <g id="priceContainer[12]">
+              <path d="M1500 2600H1499V2728H1500H1501V2600H1500Z" fill="black" id="priceLine[12]" />
+              <text id="price[12]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1476.38" y="2696.32">1,000</tspan></text>
+            </g>
+            <g id="amountContainer[12]">
+              <text id="amount[12]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="1899.31" y="2696.32">10,000</tspan></text>
+            </g>
+            <g id="nameContainer[12]">
+              <path d="M786 2600H785V2728H786H787V2600H786Z" fill="black" id="nameLine[12]" />
+              <text id="name[12]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="324" y="2696.32">商品名1</tspan></text>
+            </g>
+            <g id="indexContainer[12]">
+              <path d="M299 2600H298V2728H299H300V2600H299Z" fill="black" id="indexLine[12]" />
+              <text id="index[12]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em" text-anchor="end"><tspan x="274.938" y="2696.32">1</tspan></text>
+              <text id="nameNoIndex[12]" fill="black" xml:space="preserve" style="white-space: pre"
+                font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300"
+                letter-spacing="0em"><tspan x="155" y="2696.32">商品名1</tspan></text>
+            </g>
+          </g>
+          <path d="M1923 2728V2726H131V2728V2730H1923V2728Z" fill="black"
+            mask="url(#path-222-inside-15_102_10382)" id="underline[12]" />
+        </g>
+      </g>
+      <rect x="130" y="934" width="1794" height="1795" stroke="black" stroke-width="2" />
+    </g>
+    <text id="date" fill="black" xml:space="preserve" style="white-space: pre"
+      font-family="Hiragino Kaku Gothic Pro" font-size="64" font-weight="300" letter-spacing="0em"><tspan x="1608" y="192.32">2025/10/10</tspan></text>
+    <text id="title" fill="black" xml:space="preserve" style="white-space: pre"
+      font-family="Hiragino Kaku Gothic Pro" font-size="96" font-weight="300" letter-spacing="0em"><tspan x="806" y="208.48">支払明細書</tspan></text>
+  </g>
+  <defs>
+    <clipPath id="clip0_102_10382">
+      <rect x="131" y="935" width="1792" height="1793" fill="white" />
+    </clipPath>
+    <clipPath id="clip1_102_10382">
+      <path d="M131 1064H1923V1192H131V1064Z" fill="white" />
+    </clipPath>
+    <clipPath id="clip2_102_10382">
+      <path d="M131 1192H1923V1320H131V1192Z" fill="white" />
+    </clipPath>
+    <clipPath id="clip3_102_10382">
+      <path d="M131 1320H1923V1448H131V1320Z" fill="white" />
+    </clipPath>
+    <clipPath id="clip4_102_10382">
+      <path d="M131 1448H1923V1576H131V1448Z" fill="white" />
+    </clipPath>
+    <clipPath id="clip5_102_10382">
+      <path d="M131 1576H1923V1704H131V1576Z" fill="white" />
+    </clipPath>
+    <clipPath id="clip6_102_10382">
+      <path d="M131 1704H1923V1832H131V1704Z" fill="white" />
+    </clipPath>
+    <clipPath id="clip7_102_10382">
+      <path d="M131 1832H1923V1960H131V1832Z" fill="white" />
+    </clipPath>
+    <clipPath id="clip8_102_10382">
+      <path d="M131 1960H1923V2088H131V1960Z" fill="white" />
+    </clipPath>
+    <clipPath id="clip9_102_10382">
+      <path d="M131 2088H1923V2216H131V2088Z" fill="white" />
+    </clipPath>
+    <clipPath id="clip10_102_10382">
+      <path d="M131 2216H1923V2344H131V2216Z" fill="white" />
+    </clipPath>
+    <clipPath id="clip11_102_10382">
+      <path d="M131 2344H1923V2472H131V2344Z" fill="white" />
+    </clipPath>
+    <clipPath id="clip12_102_10382">
+      <path d="M131 2472H1923V2600H131V2472Z" fill="white" />
+    </clipPath>
+    <clipPath id="clip13_102_10382">
+      <path d="M131 2600H1923V2728H131V2600Z" fill="white" />
+    </clipPath>
+  </defs>
+</svg>
