@@ -1,7 +1,7 @@
 export function setTextById(id: string, text = "") {
   const element = document.getElementById(id);
   if (element?.children.length) {
-    element.children[0].innerHTML = text;
+    element.children[0].textContent = text;
   }
 }
 

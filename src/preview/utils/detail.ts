@@ -128,8 +128,13 @@ function calcSubtotalAt(index: number, detail: Detail[]): number {
 }
 
 export function toggleIndexLines(detail: Detail[], showIndex: boolean) {
-  setTextById("indexHeader", "No");
-  setTextById("nameNoIndexHeader");
+  if (showIndex) {
+    setTextById("headerIndex", "No");
+    setTextById("headerName", "商品名");
+  } else {
+    setTextById("headerIndex", "商品名");
+    setTextById("headerName");
+  }
   for (let i = 0; i < MAX_ITEM; i++) {
     toggleDisplayById(`indexLine[${i}]`, showIndex);
     const d = detail[i];
